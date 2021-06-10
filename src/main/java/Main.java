@@ -4,10 +4,10 @@ public class Main {
     }
     public int power_two(int a){
         int b= a*a;
-        return b;
+        return 10;
     }
     public int power_three(int c){
         int d= c*c*c;
-        return d;
+        return 10;
     }
 }
