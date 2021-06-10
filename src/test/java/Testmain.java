@@ -10,7 +10,7 @@ public class Testmain {
     }
     @Test
     public void test_power_two(){
-        assertEquals(40, st.power_two(2));
+        assertEquals(4, st.power_two(2));
     }
     @Test
     public void test_power_three(){
