@@ -8,6 +8,6 @@ public class Main {
     }
     public int power_three(int c){
         int d= c*c*c;
-        return 10;
+        return d;
     }
 }
