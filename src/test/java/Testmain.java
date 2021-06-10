@@ -14,6 +14,6 @@ public class Testmain {
     }
     @Test
     public void test_power_three(){
-        assertEquals(88, st.power_three(2));
+        assertEquals(8, st.power_three(2));
     }
 }
