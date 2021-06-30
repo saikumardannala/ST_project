@@ -6,4 +6,8 @@ public class Main {
         int b=a*a;
         return b;
     }
+    public int power_three(int c){
+        int d=c*c*c;
+        return d;
+    }
 }
