@@ -2,7 +2,6 @@ public class Main {
     public Main(){
 
     }
-    //test
     public int power_two(int a){
         int b= a*a;
         return b;
